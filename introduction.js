@@ -1,0 +1,1 @@
+console.log('Bem vindo ao curso 30 dias de java script 22')
